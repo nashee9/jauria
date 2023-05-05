@@ -1,0 +1,65 @@
+body
+{
+    background-color: #a0876a33;
+    background-image: url(zoom.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+}
+h1
+{
+    color: #a52a5a;
+    font-size: 50px;
+    margin: 20px;
+    border: solid;
+    font-family: 'Poppins', sans-serif;
+}
+#pog 
+{
+    color: #94943f;
+    font-size: 40px; 
+}
+.miclase
+{
+    color: #000000;
+    border-radius: 100px;
+    box-shadow: 10px 5px 5px #dc143c;
+}
+form
+{
+    margin: 25px;
+    padding: 50px 25px;
+    border: solid #a52a2a4d;
+    text-align: left;
+}
+span{
+    font-size: 32px;
+    background-color: #2f4f4f;
+}
+.zapatos
+{
+    font-size: 20px;
+    color: #182a20;
+    
+}
+img
+{
+    border-radius: 150%;
+    width: 250px;
+    height: 250px;
+    box-shadow:10px 5px 5px #a52a2a;
+    transform: rotate(-60deg);
+
+}
+div
+{
+    column-count: 5;
+    column-gap: 90px;
+    column-rule: 10px double #073d07;
+}
+h1 i{
+    flex-direction: column;
+    font-size: 2.5rem;
+    color: #94943f;
+}
